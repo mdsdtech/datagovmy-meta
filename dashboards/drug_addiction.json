@@ -7,7 +7,6 @@
 	"optional_params": [],
 	"charts": {
 		"timeseries": {
-			"name": "timeseries",
 			"chart_type": "timeseries_chart",
 			"chart_source": "https://storage.data.gov.my/dashboards/drugaddiction_timeseries.parquet",
 			"data_as_of": "2023-09-05 23:59",
@@ -22,7 +21,6 @@
 			}
 		},
 		"barmeter": {
-			"name": "barmeter",
 			"chart_type": "bar_meter",
 			"chart_source": "https://storage.data.gov.my/dashboards/drugaddiction_barmeter.parquet",
 			"data_as_of": "2023-09-05 23:59",
